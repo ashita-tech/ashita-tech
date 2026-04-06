@@ -1,7 +1,7 @@
 <h1> Hi there 👋 </h1>
 
 <div id="header" align="center"> 
-  <img src="[img_girl.jpg](https://i.pinimg.com/736x/35/9a/c9/359ac9da2cd64de80476bd7f10f78e13.jpg)" width="500" height="600">  
+  <img src="https://i.pinimg.com/736x/19/a0/a4/19a0a41549697e0acc04118839c9ad1b.jpg" width="200"/>
 </div>
 
 <p>Im <b>Ashita</b>.</p>
