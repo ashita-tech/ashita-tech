@@ -13,4 +13,4 @@ Fun Fact:
 
 -My favorite Anime is jujutsu kaisen.
 
-Habbit: Game,Anime,Study mindset or coding
+Habbit: Game,Anime,Study mindset or coding.
