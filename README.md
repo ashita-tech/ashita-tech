@@ -8,6 +8,9 @@ My favorite game is Slay the Spire.
 
 Fun Fact:
 -Im overthinker, Perfectionist
+
 -My favorite movie is: The Wonderful Story of Henry Sugar.
+
 -My favorite Anime is jujutsu kaisen.
+
 Habbit: Game,Anime,Study mindset or coding
