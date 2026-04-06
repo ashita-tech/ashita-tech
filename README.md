@@ -15,14 +15,6 @@ My favorite game is Slay the Spire.</p></p>
   <img src="https://i.pinimg.com/736x/19/a0/a4/19a0a41549697e0acc04118839c9ad1b.jpg" width="200"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="(https://www.youtube.com/@Ashitasama)">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="(https://x.com/Thanakorn704)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 ---
 
