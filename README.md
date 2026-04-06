@@ -1,6 +1,6 @@
 <h1> Hi there 👋 </h1>
 <p>Im <b>Ashita</b>.</p>
-<p>Im study Com-Sci. Now im studying coding and programing.</p>
+<p>Im study <b>Com-Sci</p>. Now im studying coding and programing.</p>
 <p>I love playing video game with friends.</p>
 My favorite game is Slay the Spire.</p></p>
 
